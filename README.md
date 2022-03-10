@@ -1,4 +1,4 @@
-### Oiiii eu sou a Nanda, estudante de programação (:
+### Oiii eu sou a Nanda, estudante de programação (:
 
 <div align="center">
   <a href="https://github.com/nandabdb">
